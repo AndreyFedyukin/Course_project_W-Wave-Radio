@@ -1,0 +1,24 @@
+{
+  "name": "just-validate-site",
+  "version": "0.0.0-development",
+  "description": "Website for Just-validate",
+  "scripts": {
+    "dev": "vite --port 3002",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "Georgii Perepecho <horprogs@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/horprogs/Just-validate.git"
+  },
+  "homepage": "https://github.com/horprogs/Just-validate#readme",
+  "devDependencies": {
+    "vite": "2.6.14"
+  },
+  "engines": {
+    "node": "16.x",
+    "yarn": "1.x"
+  }
+}
